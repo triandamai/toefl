@@ -1,0 +1,27 @@
+auth
+	- login
+	
+master
+	data obat
+		crud suplier
+		obat paling laris
+	suplier
+		crud suplier
+	
+dashboard
+	statistik
+pembelian
+	stok masuk
+	tabel pembelian
+	
+penjualan
+	tabel penjualan
+laporan
+	laba/rugi
+	transaksi penjualan
+	transaksi pembelian
+notifikasi
+	
+pengaturan
+
+	

@@ -1,0 +1,121 @@
+{
+	"tipe_layout": "vertical-light",
+	"menu": [
+		{
+			"judul": "Dashboard",
+			"link": "dashboard",
+			"type": "1",
+			"hassubmenu": false,
+			"icon": "feather icon-home",
+			"submenu": []
+		},
+		{
+			"judul": "Manajemen",
+			"link": "",
+			"type": "4",
+			"hassubmenu": false,
+			"icon": "feather icon-home",
+			"submenu": []
+		},
+		{
+			"judul": "Master",
+			"link": "",
+			"type": "2",
+			"hassubmenu": true,
+			"icon": "feather icon-mail",
+			"submenu": [
+				{
+					"judul": "Data Obat",
+					"link": "dataoutlet",
+					"type": "4",
+					"hassubmenu": false,
+					"icon": "feather icon-mail",
+					"submenu": []
+				},
+				{
+					"judul": "Suplier",
+					"link": "suplier",
+					"type": "4",
+					"hassubmenu": false,
+					"icon": "feather icon-mail",
+					"submenu": []
+				}
+			]
+		},
+		{
+			"judul": "Pembelian",
+			"link": "",
+			"type": "2",
+			"hassubmenu": true,
+			"icon": "feather icon-mail",
+			"submenu": [
+				{
+					"judul": "Stok Masuk",
+					"link": "stokmasuk",
+					"type": "4",
+					"hassubmenu": false,
+					"icon": "feather icon-mail",
+					"submenu": []
+				},
+				{
+					"judul": "Tabel Pembelian",
+					"link": "datapembelian",
+					"type": "4",
+					"hassubmenu": false,
+					"icon": "feather icon-mail",
+					"submenu": []
+				}
+			]
+		},
+		{
+			"judul": "Penjualan",
+			"link": "",
+			"type": "2",
+			"hassubmenu": true,
+			"icon": "feather icon-mail",
+			"submenu": [
+				{
+					"judul": "Tabel Penjualan",
+					"link": "datapenjualan",
+					"type": "4",
+					"hassubmenu": false,
+					"icon": "feather icon-mail",
+					"submenu": []
+				}
+			]
+		},
+		{
+			"judul": "Lain-Lain",
+			"link": "",
+			"type": "4",
+			"hassubmenu": false,
+			"icon": "feather icon-home",
+			"submenu": []
+		},
+		{
+			"judul": "Notifikasi",
+			"link": "notifikasi",
+			"type": "3",
+			"hassubmenu": false,
+			"icon": "feather icon-mail",
+			"submenu": []
+		},
+		{
+			"judul": "Pengaturan",
+			"link": "pengaturan",
+			"type": "3",
+			"hassubmenu": false,
+			"icon": "feather icon-mail",
+			"submenu": []
+		},
+		{
+			"judul": "Data",
+			"link": "pengaturan",
+			"type": "3",
+			"hassubmenu": false,
+			"icon": "feather icon-mail",
+			"submenu": []
+		}
+	],
+	"header": []
+}
